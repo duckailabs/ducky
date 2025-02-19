@@ -1,5 +1,5 @@
 > [!WARNING]
-> In the process of moving over (@Duckunfiltered)[https://x.com/duckunfilitered]
+> In the process of moving over [@Duckunfiltered](https://x.com/duckunfilitered)
 
 You can find the repo here for now: 
 https://github.com/FatduckAI/ai
